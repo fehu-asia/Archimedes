@@ -91,7 +91,7 @@ curl 'http://127.0.0.1:8880/demo/bind?name=name&locale=en'
 ├── constant        常量
 ├── model             输入输出结构层
 │   └── form         输出
-│   └── route.go     输入
+│   └── param.go     请求参数
 ├── go.mod
 ├── go.sum
 ├── main.go         入口文件
