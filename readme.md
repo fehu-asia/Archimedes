@@ -16,13 +16,13 @@ gin构建企业级脚手架，代码简洁易读，可快速进行高效web开�
 11. 微服务（待完成）
 11. 容器化部署（待完成）
 
-项目地址：https://github.com/e421083458/gin_scaffold
+项目地址：https://github.com/fehu-asia/fehu
 ### 现在开始
 - 安装软件依赖
 
 ```
-git clone git@github.com:e421083458/gin_scaffold.git
-cd gin_scaffold
+git clone git@github.com:fehu-asia/fehu.git
+cd fehu
 go mod tidy
 ```
 - 确保正确配置了 conf/mysql_map.toml、conf/redis_map.toml：
