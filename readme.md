@@ -22,7 +22,7 @@ gin构建企业级脚手架，代码简洁易读，可快速进行高效web开�
 
 ```
 git clone git@github.com:fehu-asia/Archimedes.git
-cd fehu
+cd Archimedes
 go mod tidy
 ```
 - 确保正确配置了 conf/mysql_map.toml、conf/redis_map.toml：
