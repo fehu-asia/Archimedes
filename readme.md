@@ -16,12 +16,12 @@ gin构建企业级脚手架，代码简洁易读，可快速进行高效web开�
 11. 微服务（待完成）
 11. 容器化部署（待完成）
 
-项目地址：https://github.com/fehu-asia/fehu
+项目地址：https://github.com/fehu-asia/Archimedes
 ### 现在开始
 - 安装软件依赖
 
 ```
-git clone git@github.com:fehu-asia/fehu.git
+git clone git@github.com:fehu-asia/Archimedes.git
 cd fehu
 go mod tidy
 ```
